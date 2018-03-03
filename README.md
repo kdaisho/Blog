@@ -1,4 +1,4 @@
 # Blog
-Tips and learns
+:green_book: Tips and lessons
 
-:green_book: [Blog Home](https://github.com/kdaisho/Blog/wiki/)
+[Blog Home](https://github.com/kdaisho/Blog/wiki/)
